@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+
+# VS Code extension packaging output
+*.vsix
+
+# TypeScript compiled output
+out/
+dist/
+
+# Visual Studio Code specific files
+.vscode/
